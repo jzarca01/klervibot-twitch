@@ -20,10 +20,10 @@ yarn start
 
 Twitch bot answers to 4 commands :
 
-!echo coucou
-!youtube
-!insta
-!twitter
+- !echo coucou
+- !youtube
+- !insta
+- !twitter
 
 ## Customize
 
